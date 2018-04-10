@@ -6,10 +6,19 @@
     <description>Recent content in Posts on GOLDIE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 21:36:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 21:44:54 +0700</lastBuildDate>
     
 	<atom:link href="http://blog.goldiestudio.me/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post2</title>
+      <link>http://blog.goldiestudio.me/blog/2018-04-10-post2/</link>
+      <pubDate>Tue, 10 Apr 2018 21:44:54 +0700</pubDate>
+      
+      <guid>http://blog.goldiestudio.me/blog/2018-04-10-post2/</guid>
+      <description>POST 2</description>
+    </item>
     
     <item>
       <title>Post1</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.goldiestudio.me/blog/2018-04-10-post2/</loc>
+    <lastmod>2018-04-10T21:44:54+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.goldiestudio.me/blog/2018-04-10-post1/</loc>
     <lastmod>2018-04-10T21:36:44+07:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>http://blog.goldiestudio.me/</loc>
-    <lastmod>2018-04-10T21:36:44+07:00</lastmod>
+    <lastmod>2018-04-10T21:44:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.goldiestudio.me/post/</loc>
-    <lastmod>2018-04-10T21:36:44+07:00</lastmod>
+    <lastmod>2018-04-10T21:44:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
