@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GOLDIE</title>
+    <link>http://blog.goldiestudio.me/</link>
+    <description>Recent content on GOLDIE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 21:36:44 +0700</lastBuildDate>
+    
+	<atom:link href="http://blog.goldiestudio.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post1</title>
+      <link>http://blog.goldiestudio.me/blog/2018-04-10-post1/</link>
+      <pubDate>Tue, 10 Apr 2018 21:36:44 +0700</pubDate>
+      
+      <guid>http://blog.goldiestudio.me/blog/2018-04-10-post1/</guid>
+      <description>POST 1</description>
+    </item>
+    
+  </channel>
+</rss>
