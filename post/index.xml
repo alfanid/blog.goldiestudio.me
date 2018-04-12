@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GOLDIE</title>
-    <link>http://blog.goldiestudio.me/post/</link>
+    <link>http://goldiestudio.github.io/post/</link>
     <description>Recent content in Posts on GOLDIE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id-id</language>
     <lastBuildDate>Thu, 12 Apr 2018 09:45:46 +0700</lastBuildDate>
     
-	<atom:link href="http://blog.goldiestudio.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://goldiestudio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post3</title>
-      <link>http://blog.goldiestudio.me/blog/2018-04-12-post3/</link>
+      <link>http://goldiestudio.github.io/blog/2018-04-12-post3/</link>
       <pubDate>Thu, 12 Apr 2018 09:45:46 +0700</pubDate>
       
-      <guid>http://blog.goldiestudio.me/blog/2018-04-12-post3/</guid>
+      <guid>http://goldiestudio.github.io/blog/2018-04-12-post3/</guid>
       <description>POST 3</description>
     </item>
     
     <item>
       <title>Post2</title>
-      <link>http://blog.goldiestudio.me/blog/2018-04-10-post2/</link>
+      <link>http://goldiestudio.github.io/blog/2018-04-10-post2/</link>
       <pubDate>Tue, 10 Apr 2018 21:44:54 +0700</pubDate>
       
-      <guid>http://blog.goldiestudio.me/blog/2018-04-10-post2/</guid>
+      <guid>http://goldiestudio.github.io/blog/2018-04-10-post2/</guid>
       <description>POST 2</description>
     </item>
     
     <item>
       <title>Post1</title>
-      <link>http://blog.goldiestudio.me/blog/2018-04-10-post1/</link>
+      <link>http://goldiestudio.github.io/blog/2018-04-10-post1/</link>
       <pubDate>Tue, 10 Apr 2018 21:36:44 +0700</pubDate>
       
-      <guid>http://blog.goldiestudio.me/blog/2018-04-10-post1/</guid>
+      <guid>http://goldiestudio.github.io/blog/2018-04-10-post1/</guid>
       <description>POST 1</description>
     </item>
     
