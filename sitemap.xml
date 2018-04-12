@@ -3,39 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://goldiestudio.github.io/blog/2018-04-12-post3/</loc>
+    <loc>https://goldiestudio.github.io/post/post4/</loc>
+    <lastmod>2018-04-12T13:24:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goldiestudio.github.io/post/post3/</loc>
     <lastmod>2018-04-12T09:45:46+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/blog/2018-04-10-post2/</loc>
+    <loc>https://goldiestudio.github.io/post/post2/</loc>
     <lastmod>2018-04-10T21:44:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/blog/2018-04-10-post1/</loc>
+    <loc>https://goldiestudio.github.io/post/post1/</loc>
     <lastmod>2018-04-10T21:36:44+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/categories/</loc>
+    <loc>https://goldiestudio.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/</loc>
-    <lastmod>2018-04-12T09:45:46+07:00</lastmod>
+    <loc>https://goldiestudio.github.io/</loc>
+    <lastmod>2018-04-12T13:24:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/post/</loc>
-    <lastmod>2018-04-12T09:45:46+07:00</lastmod>
+    <loc>https://goldiestudio.github.io/post/</loc>
+    <lastmod>2018-04-12T13:24:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://goldiestudio.github.io/tags/</loc>
+    <loc>https://goldiestudio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
